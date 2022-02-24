@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     //suspeito
-
+    //declino
     //aceito
 }
